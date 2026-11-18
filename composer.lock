@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1e52d8baa808384065a0c73243b13890",
+    "content-hash": "76c8505abe29a6ddd068dcddcb586bf6",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -63,16 +63,16 @@
         },
         {
             "name": "bahricanli/eyazisma",
-            "version": "v0.2.0",
+            "version": "v0.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bahricanli/eyazisma.git",
-                "reference": "a447f17617293580b2ce237fa11dbfcd2a67a9c9"
+                "reference": "08a841903f69417ff7c26ee4c910a429238e5b78"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bahricanli/eyazisma/zipball/a447f17617293580b2ce237fa11dbfcd2a67a9c9",
-                "reference": "a447f17617293580b2ce237fa11dbfcd2a67a9c9",
+                "url": "https://api.github.com/repos/bahricanli/eyazisma/zipball/08a841903f69417ff7c26ee4c910a429238e5b78",
+                "reference": "08a841903f69417ff7c26ee4c910a429238e5b78",
                 "shasum": ""
             },
             "require": {
@@ -86,6 +86,8 @@
                 "phpunit/phpunit": "^11.0 || ^12.0"
             },
             "suggest": {
+                "ext-gmp": "Kamu SM müşteri numarası PHP_INT_MAX'tan büyükse",
+                "ext-openssl": "İmza, sertifika ve zaman damgası denetimi ile Kamu SM kimlik başlığı için",
                 "illuminate/support": "Laravel servis sağlayıcısı ve facade için (^10.0 || ^11.0 || ^12.0 || ^13.0)"
             },
             "type": "library",
@@ -128,9 +130,9 @@
             ],
             "support": {
                 "issues": "https://github.com/bahricanli/eyazisma/issues",
-                "source": "https://github.com/bahricanli/eyazisma/tree/v0.2.0"
+                "source": "https://github.com/bahricanli/eyazisma/tree/v0.3.0"
             },
-            "time": "2026-10-08T21:00:10+00:00"
+            "time": "2026-11-13T15:53:15+00:00"
         },
         {
             "name": "bahricanli/netgsm",
