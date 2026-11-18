@@ -27,7 +27,7 @@
     "lodash": "^4.17.19",
     "postcss": "^8.4.29",
     "resolve-url-loader": "^5.0.0",
-    "sass": "^1.66.1",
+    "sass": "^1.108.2",
     "sass-loader": "^11.0.1",
     "webpack": "5.88.2"
   },
