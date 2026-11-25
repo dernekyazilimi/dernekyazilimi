@@ -16,7 +16,7 @@
   "devDependencies": {
     "@popperjs/core": "^2.11.8",
     "@tabler/core": "^1.7.5",
-    "@tabler/icons-webfont": "^3.48.0",
+    "@tabler/icons-webfont": "^3.52.0",
     "axios": "^1.21.1",
     "bootstrap": "^5.3.9",
     "datatables.net-bs5": "~1.13.6",
